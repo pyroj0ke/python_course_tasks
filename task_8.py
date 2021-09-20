@@ -1,4 +1,3 @@
-
 primeFile = open('task_8_file.txt')
 content = primeFile.read()[::-1]
 primeFile.seek(0)
